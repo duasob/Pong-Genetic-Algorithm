@@ -15,6 +15,8 @@ Project Description
 
 This project explores the application of Genetic Algorithms (GAs) to teach a computer program to play Pong, a classic video game. The primary objective was to understand and implement GAs in a gaming context, focusing on evolving a population of neural network-based agents that learn and improve their ability to play Pong over generations. Unlike traditional machine learning models that learn from data, this project's agents learn through the process of natural selection, mutation, and crossover, inspired by biological evolution. Each player is initially "born" with completely random values - and overtime we select the fittest in each group to carry on to the next generation. 
 
+At each genereation 100 players are born. We display the "winner" of the previous generation in blue, for easy visualization. 
+
 Here is how the algorithm first starts, you can see the difference in the original weights, to those in the 6th generation:
 
 <img src="assets/PongEvolutionStart.gif" width="600" height="400">
