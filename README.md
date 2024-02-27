@@ -1,6 +1,8 @@
 Genetic Algorithm Learns to Play Pong
 =====================================
-![VideoEvolutionStart](assets/PongEvolutionEnd.gif)
+
+<img src="assets/PongEvolutionEnd.gif" width="600" height="400">
+
 
 * [Code](myPongEv.py)
 * [Project Description](#project-description)
@@ -15,13 +17,14 @@ This project explores the application of Genetic Algorithms (GAs) to teach a com
 
 Here is how the algorithm first starts, you can see the difference in the original weights, to those in the 6th generation:
 
-![VideoStart](assets/PongEvolutionStart.gif)
+<img src="assets/PongEvolutionStart.gif" width="600" height="400">
+
 
 You can find the full videos here:
  * [Video Start Generation](https://youtu.be/9RWZjcdEGFs)
  * [Video Evolved Generation](https://youtu.be/bkAmig85tY0)
 
- 
+
 What I Learned
 --------------
 
