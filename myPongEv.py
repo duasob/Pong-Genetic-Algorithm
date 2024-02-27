@@ -146,7 +146,7 @@ class Ball:
 			print("bounce top")
 		elif self.x < 20 and self.y >= paddle.y and self.y <= paddle.y + 100:
 			self.x = 20
-			self.xspeed =-1*(self.xspeed+0.2)
+			self.xspeed =-1.1*(self.xspeed+0.2)
 			paddle.score += 1
 			print("bounce paddle")
 		elif self.x<0:
